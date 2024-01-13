@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">location</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+    <string name="create_new_account">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="history">History</string>
+    <string name="locate">Locate</string>
+</resources>
